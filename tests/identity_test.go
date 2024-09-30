@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/RadicalApp/complete"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/util/keyhelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/keyhelper"
 )
 
 // TestIdentityKeys checks generating, signing, and verifying of identity keys.

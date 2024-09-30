@@ -1,8 +1,8 @@
 package ratchet
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
 )
 
 // SymmetricParameters describes the session parameters for sessions where

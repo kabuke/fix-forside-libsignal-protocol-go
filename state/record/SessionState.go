@@ -1,17 +1,17 @@
 package record
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/kdf"
-	"github.com/kabuke/libsignal-protocol-go/keys/chain"
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
-	"github.com/kabuke/libsignal-protocol-go/keys/message"
-	"github.com/kabuke/libsignal-protocol-go/keys/root"
-	"github.com/kabuke/libsignal-protocol-go/keys/session"
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/util/bytehelper"
-	"github.com/kabuke/libsignal-protocol-go/util/errorhelper"
-	"github.com/kabuke/libsignal-protocol-go/util/optional"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/kdf"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/chain"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/message"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/root"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/session"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/bytehelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/errorhelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/optional"
 )
 
 const maxMessageKeys int = 2000

@@ -1,8 +1,8 @@
 package store
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/groups/state/record"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
 )
 
 type SenderKey interface {

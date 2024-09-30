@@ -1,4 +1,4 @@
-module github.com/kabuke/libsignal-protocol-go
+module github.com/kabuke/fix-forside-libsignal-protocol-go
 
 go 1.22.3
 

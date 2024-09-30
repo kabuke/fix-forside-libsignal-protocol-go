@@ -1,7 +1,7 @@
 package identity
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
 )
 
 // NewKeyPair returns a new identity key with the given public and private keys.

@@ -1,11 +1,11 @@
 package record
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/kdf"
-	"github.com/kabuke/libsignal-protocol-go/keys/chain"
-	"github.com/kabuke/libsignal-protocol-go/keys/message"
-	"github.com/kabuke/libsignal-protocol-go/util/bytehelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/kdf"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/chain"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/message"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/bytehelper"
 )
 
 // NewReceiverChainPair will return a new ReceiverChainPair object.

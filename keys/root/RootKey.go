@@ -3,10 +3,10 @@
 package root
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/kdf"
-	"github.com/kabuke/libsignal-protocol-go/keys/chain"
-	"github.com/kabuke/libsignal-protocol-go/keys/session"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/kdf"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/chain"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/session"
 )
 
 // DerivedSecretsSize is the size of the derived secrets for root keys.

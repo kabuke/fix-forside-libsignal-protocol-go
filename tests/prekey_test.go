@@ -1,9 +1,9 @@
 package tests
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/serialize"
-	"github.com/kabuke/libsignal-protocol-go/util/keyhelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/serialize"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/keyhelper"
 	"testing"
 )
 

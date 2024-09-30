@@ -2,10 +2,10 @@ package serialize
 
 import (
 	"encoding/json"
-	groupRecord "github.com/kabuke/libsignal-protocol-go/groups/state/record"
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
+	groupRecord "github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
 )
 
 // NewJSONSerializer will return a serializer for all Signal objects that will

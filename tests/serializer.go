@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/serialize"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/serialize"
 )
 
 // newSerializer will return a JSON serializer for testing.

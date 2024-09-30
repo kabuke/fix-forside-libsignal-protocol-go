@@ -3,9 +3,9 @@
 package session
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/chain"
-	"github.com/kabuke/libsignal-protocol-go/keys/message"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/chain"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/message"
 )
 
 // RootKeyable is an interface for all root key implementations that are part of

@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/groups/state/store"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/store"
 )
 
 // SignalProtocol store is an interface that implements the

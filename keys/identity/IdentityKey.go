@@ -4,7 +4,7 @@ package identity
 
 import (
 	"encoding/hex"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
 )
 
 // NewKey generates a new IdentityKey from an ECPublicKey

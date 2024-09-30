@@ -2,12 +2,12 @@ package groups
 
 import (
 	"errors"
-	"github.com/kabuke/libsignal-protocol-go/cipher"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/groups/ratchet"
-	"github.com/kabuke/libsignal-protocol-go/groups/state/record"
-	"github.com/kabuke/libsignal-protocol-go/groups/state/store"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/cipher"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/ratchet"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/store"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
 	"strconv"
 )
 

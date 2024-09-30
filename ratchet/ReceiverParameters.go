@@ -1,8 +1,8 @@
 package ratchet
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
 )
 
 // NewReceiverParameters creates a structure with all the keys needed to construct

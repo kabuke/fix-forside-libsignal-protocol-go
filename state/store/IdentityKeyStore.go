@@ -1,8 +1,8 @@
 package store
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
 )
 
 // IdentityKey provides an interface to identity information.

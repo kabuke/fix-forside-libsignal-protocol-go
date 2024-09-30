@@ -5,9 +5,9 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 	"github.com/RadicalApp/complete"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
 	"time"
 )
 

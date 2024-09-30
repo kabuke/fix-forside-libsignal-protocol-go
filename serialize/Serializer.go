@@ -3,9 +3,9 @@
 package serialize
 
 import (
-	groupRecord "github.com/kabuke/libsignal-protocol-go/groups/state/record"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
+	groupRecord "github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
 )
 
 // NewSerializer will return a new serializer object that will be used

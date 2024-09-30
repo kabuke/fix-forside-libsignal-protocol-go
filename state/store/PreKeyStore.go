@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
 )
 
 // PreKey store is an interface describing the local storage

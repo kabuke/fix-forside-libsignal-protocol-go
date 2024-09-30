@@ -2,7 +2,7 @@ package tests
 
 import (
 	"fmt"
-	"github.com/kabuke/libsignal-protocol-go/fingerprint"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/fingerprint"
 	"testing"
 )
 

@@ -1,12 +1,12 @@
 package tests
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/groups"
-	"github.com/kabuke/libsignal-protocol-go/keys/prekey"
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/serialize"
-	"github.com/kabuke/libsignal-protocol-go/session"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/prekey"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/serialize"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/session"
 	"testing"
 )
 

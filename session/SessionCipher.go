@@ -2,15 +2,15 @@ package session
 
 import (
 	"errors"
-	"github.com/kabuke/libsignal-protocol-go/cipher"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/chain"
-	"github.com/kabuke/libsignal-protocol-go/keys/message"
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
-	"github.com/kabuke/libsignal-protocol-go/state/store"
-	"github.com/kabuke/libsignal-protocol-go/util/bytehelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/cipher"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/chain"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/message"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/store"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/bytehelper"
 	"strconv"
 )
 

@@ -1,7 +1,7 @@
 package fingerprint
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
 )
 
 // FingerprintGenerator is an interface for fingerprint generators.

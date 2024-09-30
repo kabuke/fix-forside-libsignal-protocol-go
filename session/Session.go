@@ -3,16 +3,16 @@ package session
 
 import (
 	"errors"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/prekey"
-	"github.com/kabuke/libsignal-protocol-go/logger"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/ratchet"
-	"github.com/kabuke/libsignal-protocol-go/serialize"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
-	"github.com/kabuke/libsignal-protocol-go/state/store"
-	"github.com/kabuke/libsignal-protocol-go/util/medium"
-	"github.com/kabuke/libsignal-protocol-go/util/optional"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/prekey"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/logger"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ratchet"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/serialize"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/store"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/medium"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/optional"
 )
 
 // Define error constants used for error messages.

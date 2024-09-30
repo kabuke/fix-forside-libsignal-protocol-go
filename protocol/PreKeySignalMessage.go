@@ -2,9 +2,9 @@ package protocol
 
 import (
 	"errors"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
-	"github.com/kabuke/libsignal-protocol-go/util/optional"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/optional"
 	"strconv"
 )
 

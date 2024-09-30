@@ -5,11 +5,11 @@ package ratchet
 import (
 	"encoding/base64"
 	"encoding/binary"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/kdf"
-	"github.com/kabuke/libsignal-protocol-go/keys/chain"
-	"github.com/kabuke/libsignal-protocol-go/keys/root"
-	"github.com/kabuke/libsignal-protocol-go/keys/session"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/kdf"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/chain"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/root"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/session"
 )
 
 var b64 = base64.StdEncoding.EncodeToString

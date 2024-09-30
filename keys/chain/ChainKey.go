@@ -4,8 +4,8 @@ package chain
 import (
 	"crypto/hmac"
 	"crypto/sha256"
-	"github.com/kabuke/libsignal-protocol-go/kdf"
-	"github.com/kabuke/libsignal-protocol-go/keys/message"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/kdf"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/message"
 )
 
 var messageKeySeed = []byte{0x01}

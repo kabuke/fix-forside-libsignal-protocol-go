@@ -1,13 +1,13 @@
 package tests
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/groups"
-	"github.com/kabuke/libsignal-protocol-go/keys/identity"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/serialize"
-	"github.com/kabuke/libsignal-protocol-go/session"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
-	"github.com/kabuke/libsignal-protocol-go/util/keyhelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/identity"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/serialize"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/session"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/keyhelper"
 )
 
 // user is a structure for a signal user.

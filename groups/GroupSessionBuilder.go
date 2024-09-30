@@ -9,11 +9,11 @@
 package groups
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/groups/state/record"
-	"github.com/kabuke/libsignal-protocol-go/groups/state/store"
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/serialize"
-	"github.com/kabuke/libsignal-protocol-go/util/keyhelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/groups/state/store"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/serialize"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/keyhelper"
 )
 
 // NewGroupSessionBuilder will return a new group session builder.

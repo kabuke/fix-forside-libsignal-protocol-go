@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/keys/message"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/keys/message"
 )
 
 // MessageKey store is an interface describing the optional local storage

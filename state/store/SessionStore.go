@@ -1,8 +1,8 @@
 package store
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/protocol"
-	"github.com/kabuke/libsignal-protocol-go/state/record"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/protocol"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/state/record"
 )
 
 // Session store is an interface for the persistent storage of session

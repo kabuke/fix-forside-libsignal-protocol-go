@@ -2,7 +2,7 @@ package protocol
 
 import (
 	"errors"
-	"github.com/kabuke/libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
 	"strconv"
 )
 

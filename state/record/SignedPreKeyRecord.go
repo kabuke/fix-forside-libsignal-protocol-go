@@ -1,8 +1,8 @@
 package record
 
 import (
-	"github.com/kabuke/libsignal-protocol-go/ecc"
-	"github.com/kabuke/libsignal-protocol-go/util/bytehelper"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/ecc"
+	"github.com/kabuke/fix-forside-libsignal-protocol-go/util/bytehelper"
 )
 
 // SignedPreKeySerializer is an interface for serializing and deserializing
